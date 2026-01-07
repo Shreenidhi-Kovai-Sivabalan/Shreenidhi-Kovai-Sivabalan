@@ -12,8 +12,8 @@ I'm currently expanding my expertise into AWS Cloud services to build more scala
 * **Data Visualisation:** Tableau, Power BI, Matplotlib, Seaborn.
 * **Specialised Domains:**
   * **Deep Learning & NLP:** LSTM, BERT, CNN, RNN.
-    * **Knowledge Graphs:** Ontology, Semantic Web (OWL, SPARQL).
-    * **Cloud & Tools:** VS Code, Jupyter, Google Colab, GCP (Big Data processing), AWS (In Progress).
+  * **Knowledge Graphs:** Ontology, Semantic Web (OWL, SPARQL).
+  * **Cloud & Tools:** VS Code, Jupyter, Google Colab, GCP (Big Data processing), AWS (In Progress).
 
 ---
 
