@@ -18,17 +18,21 @@ I'm currently expanding my expertise into AWS Cloud services to build more scala
 
 ### Highlighted Projects
 
-**[Accurate Energy Demand Prediction for Smart Cities](link-to-repo)** *MSc Dissertation | Jun 2025 – Oct 2025* * Processed 2 million rows of energy consumption data.
+**[Accurate Energy Demand Prediction for Smart Cities](link-to-repo)** *MSc Dissertation | Jun 2025 – Oct 2025* 
+* Processed 2 million rows of energy consumption data.
 * Built and compared 10+ models, ranging from SARIMA and Random Forest to advanced Stacked and Bidirectional LSTMs.
-* Analyzed accuracy vs. computational cost across minute, hourly, and daily frequencies.
+* Analysed accuracy vs. computational cost across minute, hourly, and daily frequencies.
 
-**[Fake News Detection: Neural vs. Traditional Models](link-to-repo)** *NLP Coursework | 2025* * Compared SVM and Naive Bayes against Deep Learning approaches (BiLSTM with GloVe embeddings).
+**[Fake News Detection: Neural vs. Traditional Models](link-to-repo)** *NLP Coursework | 2025* 
+* Compared SVM and Naive Bayes against Deep Learning approaches (BiLSTM with GloVe embeddings).
 * Achieved 99.25% accuracy with SVM and 98.14% with BiLSTM, including a detailed error analysis on misclassified data.
 
-**[Exploring the New York Housing Market](link-to-repo)** *Visual Analytics | 2024* * Used K-Means clustering to segment properties into luxury and mid-range tiers.
-* Created spatial visualizations to identify "hidden gem" properties based on price-to-value thresholds.
+**[Exploring the New York Housing Market](link-to-repo)** *Visual Analytics | 2024* 
+* Used K-Means clustering to segment properties into luxury and mid-range tiers.
+* Created spatial visualisations to identify "hidden gem" properties based on price-to-value thresholds.
 
-**[Analysis of Crime in Los Angeles](link-to-repo)** *Principles of Data Science | 2024* * Cleaned and analyzed a 900,000+ row dataset.
+**[Analysis of Crime in Los Angeles](link-to-repo)** *Principles of Data Science | 2024* 
+* Cleaned and analyzed a 900,000+ row dataset.
 * Applied Random Forest (92% accuracy) to identify the primary factors influencing crime resolution times.
 
 ---
