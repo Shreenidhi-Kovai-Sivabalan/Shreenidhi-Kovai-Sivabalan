@@ -32,7 +32,7 @@ I'm currently expanding my expertise into AWS Cloud services to build more scala
 * Used K-Means clustering to segment properties into luxury and mid-range tiers.
 * Created spatial visualisations to identify "hidden gem" properties based on price-to-value thresholds.
 
-**[Analysis of Crime in Los Angeles](link-to-repo)** *Principles of Data Science | 2024* 
+**[Analysis of Crime in Los Angeles](https://github.com/Shreenidhi-Kovai-Sivabalan/LA-Crime-Data-Analysis/tree/main)** *Principles of Data Science | 2024* 
 * Cleaned and analyzed a 900,000+ row dataset.
 * Applied Random Forest (92% accuracy) to identify the primary factors influencing crime resolution times.
 
