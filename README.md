@@ -19,7 +19,7 @@ I'm currently expanding my expertise into AWS Cloud services to build more scala
 
 ### Highlighted Projects
 
-**[Accurate Energy Demand Prediction for Smart Cities](link-to-repo)** *MSc Dissertation | Jun 2025 – Oct 2025* 
+**[Accurate Energy Demand Prediction for Smart Cities](https://github.com/Shreenidhi-Kovai-Sivabalan/Accurate-Energy-Demand-Prediction)** *MSc Dissertation | Jun 2025 – Oct 2025* 
 * Processed 2 million rows of energy consumption data.
 * Built and compared 10+ models, ranging from SARIMA and Random Forest to advanced Stacked and Bidirectional LSTMs.
 * Analysed accuracy vs. computational cost across minute, hourly, and daily frequencies.
