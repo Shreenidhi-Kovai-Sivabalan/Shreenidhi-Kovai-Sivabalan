@@ -24,7 +24,7 @@ I'm currently expanding my expertise into AWS Cloud services to build more scala
 * Built and compared 10+ models, ranging from SARIMA and Random Forest to advanced Stacked and Bidirectional LSTMs.
 * Analysed accuracy vs. computational cost across minute, hourly, and daily frequencies.
 
-**[Fake News Detection: Neural vs. Traditional Models](link-to-repo)** *NLP Coursework | 2025* 
+**[Fake News Detection: Neural vs. Traditional Models](https://github.com/Shreenidhi-Kovai-Sivabalan/Fake-News-Detection)** *NLP Coursework | 2025* 
 * Compared SVM and Naive Bayes against Deep Learning approaches (BiLSTM with GloVe embeddings).
 * Achieved 99.25% accuracy with SVM and 98.14% with BiLSTM, including a detailed error analysis on misclassified data.
 
